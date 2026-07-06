@@ -1025,7 +1025,7 @@
     },
     {
         "repoURL": "https://github.com/docflex/Raft-Consensus",
-        "name": "Raft-Consensus",
+        "name": "docflex/Raft-Consensus",
         "authors": [
             {
                 "name": "Rehber Moin",
